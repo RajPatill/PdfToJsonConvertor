@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PdfToJson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a1ef99ddc837f5abf308f413b3f044212c2d2b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e146aedea5e9172bc7a19699083b8c37c38d326")]
 [assembly: System.Reflection.AssemblyProductAttribute("PdfToJson")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PdfToJson")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
